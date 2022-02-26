@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sword of the Lord dravvn, and furbished against the man of sin: or Something in answer to a paper set forth by three of the chief priests of London, whose names are Thomas Goodwine, and one Nye, and Sydrach Sympson, which they have put forth to the propagating of the Gospel, signed by him that is the clerk of the Parl. whose name is Henry Scobell, with their deceits and deceitfull actings laid open and cleared from Scripture, that they have no example in Scripture for their practice. Therefore I was moved by the Lord God of life to lay open their deceit by the spirit of truth, as it was made manifest in me from the Lord, that the simple might not be deceived by them, but might have the knowledge of the truth, from that which is for ever, and shall not change nor fade away. / By one whose name in the flesh is, Christopher Atkinson, who am one that the world doth scornfully call a Quaker.</title>
+            <author>Atkinson, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75770</idno>
+            <idno type="STC">Wing A4129</idno>
+            <idno type="STC">Thomason E818_4</idno>
+            <idno type="STC">ESTC R207391</idno>
+            <idno type="EEBO-CITATION">99866445</idno>
+            <idno type="PROQUEST">99866445</idno>
+            <idno type="VID">167994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E818[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sword of the Lord dravvn, and furbished against the man of sin: or Something in answer to a paper set forth by three of the chief priests of London, whose names are Thomas Goodwine, and one Nye, and Sydrach Sympson, which they have put forth to the propagating of the Gospel, signed by him that is the clerk of the Parl. whose name is Henry Scobell, with their deceits and deceitfull actings laid open and cleared from Scripture, that they have no example in Scripture for their practice. Therefore I was moved by the Lord God of life to lay open their deceit by the spirit of truth, as it was made manifest in me from the Lord, that the simple might not be deceived by them, but might have the knowledge of the truth, from that which is for ever, and shall not change nor fade away. / By one whose name in the flesh is, Christopher Atkinson, who am one that the world doth scornfully call a Quaker.</title>
+                  <author>Atkinson, Christopher.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Giles Calvert; at the sign of the Black-spread-Eagle at the west end of Pauls.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Thomas Goodwin, Sidrach Simpson, and Philip Nye.  The principles of faith.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, Thomas, 1600-1680. --  Principles of faith.</term>
+               <term>Quakers --  England --  London --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167994:1" rendition="simple:additions"/>
+            <p>THE Sword of the Lord DRAVVN, And furbiſhed againſt the man of ſin: OR Something in anſwer to a Paper ſet forth by three of the chief Prieſts of <hi>London,</hi> whoſe names are <hi>Thomas Goodwine,</hi> and one <hi>Nye,</hi> and <hi>Sydr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch Sympſon,</hi> which they have put forth to the prepagating of the Goſpel, ſigned by him that is the Clerk of the Parl. whoſe name is <hi>Henry Scobell,</hi> with their deceits and deceitfull a<g ref="char:EOLhyphen"/>ctings laid open and cleared from Scripture, that they have no example in Scripture for their practice.</p>
+            <p>Therefore I was moved by the Lord God of life to lay open their deceit By the Spirit of Truth, as it was made manifeſt in me from the Lord, that the ſim<g ref="char:EOLhyphen"/>ple might not be deceived by them, but might have the knowledge of the Truth, from that which is for ever, and ſhall not change nor fade away.</p>
+            <p>
+               <hi>By one whoſe Name in the fleſh is,</hi> Chriſtopher At<g ref="char:EOLhyphen"/>kinſon, <hi>who am one that the world doth ſcornfully call a Quaker.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and are to be ſold by <hi>Giles Calvert,</hi> at the Sign of the Black-ſpread-Eagle at the weſt end of <hi>Pauls.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167994:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:167994:2"/>
+            <head>The Sword of the Lord drawn and furbiſhed againſt the Man of ſin.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here coming a paper unto my hands, put forth by three of the Cheif Prieſts of <hi>London,</hi> whoſe names are <hi>Tho. Goodwin,</hi> one <hi>Nye,</hi> and <hi>Sydrack Simſon,</hi> called the Principles of Faith, put forth to the Committee of Parliament, for the pro<g ref="char:EOLhyphen"/>pagating the Goſpel, as they call it, and finding them out of the Apoſtles rule, and the Prophets rule, acting thoſe things which they have no example for, therefore am I moved of the Lord to lay open their deceits, and to declare the living truth of God, as it is made manifeſt in me, and to declare what faith we own and practiſe, and what we doe deny, to that end, that the ſimple may be informed, and the way of truth cleared, from ſuch deceivers, who are perverters of the Scriptures, who would conſtrain people to follow their immaginations inſtead of truth, as theſe men have done, whoſe names are ſubſcribed: and now a few words in anſwer to that you call your firſt Prin<g ref="char:EOLhyphen"/>ciple.</p>
+            <p>Firſt Principle: That the Scriptures is the rule of knowing God, and living unto him, which who ſo doth not believe, but betakes himſelf to any other way of diſcovering God inſtead thereof, cannot be ſaved.</p>
+            <p>
+               <hi>Anſw.</hi> The Scriptures are not the Saints rule of knowing God, and living unto him, but that which was before the Scrip<g ref="char:EOLhyphen"/>tures were written, by which all the holy men of God knew him; and here yee have made your ſelves manifeſt, that yee have not the rule which <hi>Moſes</hi> had, which is the Spirit of light, by which he made himſelf known unto the ſons of men; and yee that teach
+<pb n="2" facs="tcp:167994:3"/>people to walk in another rule, are thoſe, that put light for dark<g ref="char:EOLhyphen"/>neſſe, and darkneſſe for light, ſhewing forth the ſpirit of errour: and here yee pervert the Scriptures, and <hi>Moſes</hi> words, which propheſied of Chriſt: <hi>Moſes</hi> bad not the people walk by the Scripture, neither did he tell them, that living therein was the rule of knowing God, but he directed them to the Life, without which all their profeſſion was abominable: but yee are not come to walk in the letter, whoſe lips and practiſe doth not concord with it, who are found acting thoſe things which it declares againſt, <hi>Math.</hi> 23. who are called of men Maſter, ſtand praying in the Synagogues, which our Lord Jeſus Chriſt cried woe againſt, and here your Faith, and your Principle is alſo that the rule whereby the Saints are guided, is that which was before the Scripture was: (firſt, it is profeſſed generally in this Nation, that believing in the Scriptures is the knowledge of God, and that the Scriptures is the rule of knowing God; this have you preached for doctrine among the people, and yet the way of God is hidden from their eyes, who are found acting in the abominations of the Heathen, as doth plainly appear by the ſinnes of this people, nay, what ſin is there that is not com<g ref="char:EOLhyphen"/>mitted amongſt this people, which have profeſſed the Scripture to be their rule, and you that pretend to be their Teachers, are the greateſt examples of their wicked practiſes, crying peace, peace unto them, when there is no peace, one building a wall, and another dawbing it with untempered morter, but yee ſhall proceed no further, but your folly ſhall be made manifeſt to all men) our rule is that which <hi>Moſes</hi> walked in, and <hi>Abraham,</hi> and <hi>David,</hi> and all the Prophets, which is Chriſt Jeſus the light of the world, which whoſoever believeth not in him hath not God; <hi>Moſes</hi> walked in him, <hi>Abraham</hi> believed in him, and <hi>David</hi> de<g ref="char:EOLhyphen"/>lighted in his Law which is perfect; and here we deny you, who deny that rule in which the holy men of God walked in.</p>
+            <p>Second Principle: That there is a God, who is the Creator,
+<pb n="3" facs="tcp:167994:3"/>and Judge, and Governour of the world, and is to be known by Faith.</p>
+            <p>
+               <hi>Anſw.</hi> The Saints God yee are ignorant of (who put light for darkneſſe, and darkneſſe for light) and before him yee can<g ref="char:EOLhyphen"/>not ſtand in judgement, who are found working wickedneſſe, ma<g ref="char:EOLhyphen"/>king people believe, that believing in a thing without them will bring them to the knowledge of God, which none can know or underſtand but through death, and if ever yee come to know this God whom the Saints worſhip in ſpirit and truth, yee muſt witneſſe a day of vengeance to paſſe through; therefore ſtop your mouthes yee proud and luſtful ones, the day of recom<g ref="char:EOLhyphen"/>pence is come, in which yee ſhall receive double for all your wickedneſſe: The Lord is our Judge, our Law-giver, and our King, and this we witneſſe, though we had never ſeen the Scrip<g ref="char:EOLhyphen"/>ture; and here we deny you and your Principles, which is no more than that which the world profeſſeth; therefore be yee aſhamed yee wicked and ungodly ones, who live in the beaſtly nature, who knowes no more of God than what you have with<g ref="char:EOLhyphen"/>out you in the Scriptures, which they ſpoke forth that witneſſed him before the Scriptures were written, him we own and witneſſe to be our King, and by him are we redeemed out of your gene<g ref="char:EOLhyphen"/>ration, glory to his name for ever, who hath made himſelf mani<g ref="char:EOLhyphen"/>feſt in us, and hath brought us to that which was before the Scripture was.</p>
+            <p>Third Principle: That this God, who is Creator, is eter<g ref="char:EOLhyphen"/>nally diſtinct from all other creatures in his being and bleſſed<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>
+               <hi>Anſw.</hi> God yee know not, neither can yee ſee him, but are found perſecutors of him, who would divide him from what he is by your heatheniſh inventions, which ariſeth out of the corrupt, ſenſual part, which never ſhall inherit the Kingdome (the being of God is not diſtinct from them that are begotten by him, for as the Father and the Son are one without diſtinction, ſo are they that are begotten by him; and here you perverters of the truth are ſhut forth from God, with all your diſtinctions and immaginations, which ariſeth out of the dark mind, by which yee have all this while deceived the people: woe unto you yee enemies of God, your foundation, your compaſſe, and your end
+<pb n="4" facs="tcp:167994:4"/>is made manifeſt unto the children of light, who would divide God from his children, whom he hath begotten unto himſelf through the word of faith, in which we live and abide for ever: and here I challenge you before the Lord to produce one Scri<g ref="char:EOLhyphen"/>pture, which ſpeakes of God being diſtinct from them that are begotten by him, and if you cannot prove your words by plain Scripture, let ſhame cover your faces, and ſtop your mouthes for ever.)</p>
+            <p>And for your fourth thing, that God is three perſons or ſub<g ref="char:EOLhyphen"/>ſtances, this is alſo another of your lies, never ſuch a word is declared of in Scripture, and thus have you made your folly ma<g ref="char:EOLhyphen"/>nifeſt to all men, and have cleared your ſelves from the Scrip<g ref="char:EOLhyphen"/>tures: God is a myſtery, in whom the foundation of all things ſtands, and he is but one in all, though ten thouſand times ten thouſand. Woe unto yee, you perverters of the truth, who blinds the eyes of the ſimple, making them believe your imma<g ref="char:EOLhyphen"/>ginations and conceivings inſtead of truth, and this you run to the powers of the earth to propagate, yee men of ſin, did ever the Prophets declare of ſuch Goſpel as this, or did ever the Apoſtles preach any ſuch Doctrine as this, which yee would compel peo<g ref="char:EOLhyphen"/>ple to believe, and would have the powers of the earth to pro<g ref="char:EOLhyphen"/>pagate; here I challenge you again to prove your example by Scripture, and where ever the holy men of God did divide him into three ſubſtances, and if yee refuſe to prove the ſame, I pro<g ref="char:EOLhyphen"/>claim, as in the preſence of the Lord, that yee are perverters of the Scripture, and of the right way of the Lord, and your pro<g ref="char:EOLhyphen"/>pagating the Goſpel, and your principles, are accurſed from God, having no example in Scripture.</p>
+            <p>Fifth Principle. The fift is, That Chriſt is the Mediator be<g ref="char:EOLhyphen"/>tween God and Man, without the knowledge of whom there is no ſalvation.</p>
+            <p>
+               <hi>Anſw.</hi> Him we witneſſe made manifeſt in us, who is the Medi<g ref="char:EOLhyphen"/>ator, but what have you to doe to ſpeak of his Name, or to pro<g ref="char:EOLhyphen"/>feſſe his words, who are found in the ſteps of the Scribes and Phariſees that put him to death, who are called of Men Maſter, have uppermoſt roomes at Feaſts, ſtand praying in the Syna<g ref="char:EOLhyphen"/>gogues, as they did that Chriſt cried woe againſt, <hi>Math.</hi> 23. Thus you are ſeparated from Chriſt, who are not found in his
+<pb n="5" facs="tcp:167994:4"/>Doctrine, and are found among the Heathen, whom the con<g ref="char:EOLhyphen"/>demnation of God is upon, and the Scripture bare teſtimony a<g ref="char:EOLhyphen"/>gainſt you, that you are not in the Doctrine of Chriſt, but are found to be lyars, 1 <hi>John</hi> 2.22. and the acts of your father you are found acting.</p>
+            <p>And in the ſixth you ſay that Chriſt is the true God, here you be witneſſes a<g ref="char:EOLhyphen"/>gainſt your ſelves, that you divide the Father from the Son, who you ſay, is three diſtinct ſubſtances, but the Lord will make you manifeſt, ye that blindfold the ſim<g ref="char:EOLhyphen"/>ple, by your ſubtilty and witchcraft, making them believe lies inſtead of Truth, and would divide that in which there is no diviſion, for he that hath th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th the Fa<g ref="char:EOLhyphen"/>ther alſo: This Man Chriſt Jeſus who was made with an Oath, the everlaſting Covenant, the Oath of God is not divided from him in whom the foundations ſtands; for without this man Jeſus was nothing made, and as he was, ſo he is, he that hath an ear to hear let him hear, and here ſottiſh mindes, your imagined God beyond the ſtarres, and your carnall Chriſt which you would make appear th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough your heatheniſh Philoſophy, is utterly denyed and teſtified againſt by the Light which comes from Chriſt, which ye reſiſt as your foref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers have done. And in your ſeventh Principle ye are laid open, 1 <hi>John</hi> 4.2. Hereby know we the Spirit of God, every Spirit that confeſſeth Chriſt come in the fleſh, is of God, and this is he that is one with the Father, even Jeſus Chriſt, the Man of God who was given for a Covenant, but him ye are enemies unto. And whereas you ſay, in the eighth, that this Chriſt the man of God, is God and Man in one Per<g ref="char:EOLhyphen"/>ſon; it is a lye, he is not divided from what he was before the foundations of the hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s were laid, but him ye knew not, but as ye do imagine, and the Heathens do, and here you are ſhut forth from the Scriptures, and from Chriſt, and the new Man, which is witneſſed in the Sons of God; therefore ſtop your mouths for ever, who would make people believe that believing in thoſe words which are decl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red from the Life without the ſame Spirit, as they had that ſpoke them forth, will bring them to the ſame knowledge of God: And thus in your ninth you have alſo ſhewed forth your Ignorance, and telling people that Chriſt hath payed a ranſome for ſin, this is witneſſed by the children of Light, but what have you to do to take theſe words into your mouths that never yet came to repentance for ſin; and if ever you wit<g ref="char:EOLhyphen"/>neſe him a Redeemer, you muſt witneſſe the vengeance of God which is upon the Man of Sin, but you Men of ſin, who live in your filthineſſe, ſhall receive your re<g ref="char:EOLhyphen"/>compence from the hand of the Lord, and this ye ſhall eternally witneſſe, whether you will hear or forbear. And as for the eleventh, that Chriſt being the onely God, and Man in one Perſon, remains for ever a dictinct perſon from all Saints, and Angels, notwithſtanding their union and communion with him: your words are utterly denied, and deteſted, and your diſtinctions are abominable; I challenge you from the Lord to prove ſuch a thing in Scripture, or elſe ſtop your mouthes for ever, for Chriſt Jeſus is but one in all, and not diſtinct, and you that would divide him, and them that are begotten by him are enemies unto him. As for the the twelfth, That all men by nature are dead in treſpaſſes and ſins, this is fulfilled in you, and ye ſhall receive the wages of it, the Men of ſin whoſe ungodly practices are laid open and diſcovered to the children of Light, who have obtained the victory, and I tell you plainly that vengeance of God hangs over your heads, and the recom<g ref="char:EOLhyphen"/>pence of God ſhall be doubled upon you that live in your ſins; except ye repent ye
+<pb n="6" facs="tcp:167994:5"/>all likewiſe periſh; and whereof ye ſay ye are juſtified, and ſaved by Grace, ye are they that have turned the grace of God into wantoneneſſe, and holds the Faith of our Lord Jeſus Chriſt with reſpect of Perſons, as is made manifeſt by you dayly.</p>
+            <p>And in your laſt you ſay, That to continue in any known ſin under what pre<g ref="char:EOLhyphen"/>tence ſoever, is damnable, here be you witneſſes againſt your ſelves, that ye are proud, and that ye live in the practice of the world, which is ſin, and ſeek for your gain from your Quarters, which is ſin, and the Lord ſent his Prophets to de<g ref="char:EOLhyphen"/>clare againſt ſuch, and the ſame wo from God, is upon you that act the ſame things, <hi>Iſaiah</hi> 56.11. And here your practice and Example is found among the falſe Prophets of <hi>Iſrael,</hi> which the Lord ſent his true Prophets to declare againſt, which received his Word from his own mouth, for which they were both perſecuted and ſtoned by your Generation, which profeſſed that in Words which they perſe<g ref="char:EOLhyphen"/>cuted in the Saints, who witneſſed the life and power of what they ſpoke. Thus have ye brought ſhame upon your ſelves ye deceitfull workers who are profeſſing that cutwardly in words which ye are enemies to the Life of, ſo from the Scriptures ye are razed out; and your bottom and foundation is made manifeſt to the children of Light, and your deceits are made manifeſt by them that walk in the Light, at which you are ſtumbling as your forefathers did, though you profeſſe the words de<g ref="char:EOLhyphen"/>clared from the Light. Thus have I returned an anſwer to your confuſed Paper, leſt you ſhould boaſt your ſelves in your folly, and blinde the eyes of the ſimple by your heatheniſh inventions, as ye have formerly done and have laid your ſhame o<g ref="char:EOLhyphen"/>pen unto the ſimple minded, that they may diſcover and ſee your confuſion.</p>
+            <p>And now a word unto you from whom this Paper was put forth: Your Spirits and your actings are contrary to the Spirit of Chriſt, as having no example from him nor his Apoſtles for it. Be ye aſhamed, and ſtop your mouthes from profeſſing godlineſſe, who are found in the pride and in the wickedneſſe of this world, out of which the Miniſters of Chriſt were redeemed. Now can ye but deny the Truth, when as ye act thoſe things which the Miniſters of Truth were ſent to declare againſt. Therefore let ſhame cover you, and let your mouths be ſtopped in the duſt for ever profeſſing Chriſt or his Goſpel, who are found enemies to it. And now ye covetous Prieſts, who ſeek for your gain from your Quarters ye may be aſhamed of your profeſſion How often have ye declared againſt the covetous practice of the world in words outwardly &amp; yet your ſelvs are found acting in them in covetouſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe and extortion, as is dayly made manifeſt by you; and is contrary to the practice of the Apoſtles: For ſhame ye covetous Prieſts give over your wicked practices, and your beaſtly actings, leſt the Lord rip off your coverings, and lay you naked to all men: Thus have I cleared my conſcience to you and to all the world in the preſence of the Lord, whether you will hear or forbear.</p>
+            <closer>
+               <signed>
+                  <hi>One who is called by the world a Quaker, whoſe name in the fleſh is,</hi> CHRISTOPHER ATKINSON.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
